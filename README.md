@@ -1,2 +1,5 @@
-# fluid-mechanics-teaching-material
-Teaching Material for Undergraduate Fluid Mechanics (from Northwestern University, Fall of 2013)
+# Fluid Mechanics Teaching Material
+
+by Karthik Sekar
+
+This material was used for active learning-based teaching of Fluid Mechanics at Northwestern University in the Fall 2013. The students started with an empty template and "filled" in along with the instruction. 
